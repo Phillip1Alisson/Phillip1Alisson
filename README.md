@@ -25,11 +25,11 @@ Vou além do uso convencional de copilotos de código. Eu desenho e estendo a in
 
 ### 📂 Projetos em Destaque
 
-#### 🤖 [Database MCP Server](https://github.com)
+#### 🤖 [Database MCP Server](https://github.com/Phillip1Alisson/mcp-db-orchestrator)
 *Implementação do protocolo Model Context Protocol (MCP) para habilitar agentes autônomos a realizarem introspecção, modelagem e consultas assistidas em bancos de dados relacionais com total isolamento e segurança.*
 `TypeScript` `Node.js` `MCP` `Database`
 
-#### 💬 WhatsApp Multi-Tenant CRM Engine (Em Desenvolvimento)
+#### 💬 [WhatsApp Multi-Tenant CRM Engine](https://github.com/Phillip1Alisson/nexus-engine)
 *Arquitetura distribuída e assíncrona voltada para orquestração de Webhooks de alta concorrência da Meta Cloud API. O sistema gerencia filas resilientes com Redis para garantir a entrega e o isolamento de dados de múltiplos tenants de forma assíncrona.*
 `NestJS` `Laravel` `Redis` `Queues` `Docker`
 
