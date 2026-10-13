@@ -42,5 +42,5 @@ Vou além do uso convencional de copilotos de código. Eu desenho e estendo a in
 ---
 
 ### 📬 Onde me encontrar:
-*   **LinkedIn:** [://linkedin.com](https://linkedin.com)
+*   **LinkedIn:** [://linkedin.com](https://linkedin.com/in/phillip-alisson-volpi)
 *   **E-mail:** phill.volpi@gmail.com
